@@ -4,3 +4,9 @@ C:\Users\Mac\source\repos\UAIPPathfinding\UAIPPathfinding\bin\Debug\UAIPPathfind
 C:\Users\Mac\source\repos\UAIPPathfinding\UAIPPathfinding\obj\Debug\UAIPPathfinding.csprojAssemblyReference.cache
 C:\Users\Mac\source\repos\UAIPPathfinding\UAIPPathfinding\obj\Debug\UAIPPathfinding.exe
 C:\Users\Mac\source\repos\UAIPPathfinding\UAIPPathfinding\obj\Debug\UAIPPathfinding.pdb
+C:\Users\mac.bearse\Desktop\PathFinding-master\UAIPPathfinding\UAIPPathfinding\bin\Debug\UAIPPathfinding.exe.config
+C:\Users\mac.bearse\Desktop\PathFinding-master\UAIPPathfinding\UAIPPathfinding\bin\Debug\UAIPPathfinding.exe
+C:\Users\mac.bearse\Desktop\PathFinding-master\UAIPPathfinding\UAIPPathfinding\bin\Debug\UAIPPathfinding.pdb
+C:\Users\mac.bearse\Desktop\PathFinding-master\UAIPPathfinding\UAIPPathfinding\obj\Debug\UAIPPathfinding.csprojAssemblyReference.cache
+C:\Users\mac.bearse\Desktop\PathFinding-master\UAIPPathfinding\UAIPPathfinding\obj\Debug\UAIPPathfinding.exe
+C:\Users\mac.bearse\Desktop\PathFinding-master\UAIPPathfinding\UAIPPathfinding\obj\Debug\UAIPPathfinding.pdb
